@@ -1,0 +1,2 @@
+id/cpen/catatanpenjualan/BuildConfig.java
+ id.cpen.catatanpenjualan.BuildConfig
